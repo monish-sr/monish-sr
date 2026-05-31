@@ -28,7 +28,6 @@
     </td>
     
   </tr>
-  tr>
     <td>
       <img width="340" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZjejBzN2V5OWgyNzkzczgzZXB2N242YXYxbW5nbHEwcWdpdDJ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif"/>
     </td>
