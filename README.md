@@ -196,6 +196,7 @@ endmodule
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
+| [📋 APB Protocol Design & Testbench](https://github.com/monish-sr/apb_protocol) | `SystemVerilog` `Verilog` `QuestaSim` | Parameterized APB Protocol with 2-cycle wait state; 1W to NWRD testcases; implemented DUT using verilog and TB using SystemVerilog; testcases are verified via coverage |
 | [🧠 Memory Design & Testbench](https://github.com/monish-sr/memory-verilog) | `Verilog` `ModelSim` | Parameterized memory with configurable depth/width; valid-ready handshake for read/write; fully verified via directed testbench |
 | [⚙️ Synchronous FIFO Design & Testbench](https://github.com/monish-sr/sync_fifo--verilog) | `Verilog` `ModelSim` | Parameterized FIFO with pointer-toggle full/empty detection; overflow/underflow handling; verified for all read/write edge cases |
 
